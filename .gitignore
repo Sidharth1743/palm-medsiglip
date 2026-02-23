@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+src/__pycache__model.safetensors
+# Model weights / artifacts
+*.safetensors
+**/artifacts/**
+deploy/palm_artifacts/
+palm_deploy/artifacts/
+palm/artifacts/

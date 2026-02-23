@@ -1,0 +1,469 @@
+image_path,label
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-074 (11).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-anemic-Pa-011 (3).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-048 (10).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-020 (6).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-106 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-204 (6).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-189 (7).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-049 (7).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-048 (9).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-anemic-Pa-013 (7).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-166.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-244 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-197 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-226 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-204 (7).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-138 (3).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-123 (4).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-267 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-107 (11).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-138 (5).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-106 (12).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-101 (2).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-104 (9).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-175 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-085.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-192 (4).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-Pa-001 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-077 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-anemic-Pa-013 (3).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-239 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-168 (12).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-049.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-anemic-Pa-013 (4).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-060.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-164 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-107 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-049 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-103 (11).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-268FV (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-239.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-023 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-017 (7).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-anemic-Pa-013 (6).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-077 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-anemic-Pa-013 (11).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-Pa-001 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-103 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-077 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-048 (11).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-017 (9).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-101.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-169 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-anemic-Pa-013 (10).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-164 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-208 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-137 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-166 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-208.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-184 (2).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-184 (11).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-anemic-Pa-011 (6).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-130 (2).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-007 (7).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-197 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-anemic-Pa-011 (4).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-204.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-189 (10).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-012 (6).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-103 (12).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-203 (6).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-103 (7).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-184 (9).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-267 (11).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-037 (5).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-106 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-019.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-005 (3).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-060 (8).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-205 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-049 (11).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-168 (2).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-060.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-146 (2).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-107 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-Pa-001.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-Pa-016 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-107 (6).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-107 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-168 (8).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-189 (11).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-267 (9).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-107 (7).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-107.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-123 (3).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-189 (12).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-107 (4).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-169 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-070 (5).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-085 (10).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-019 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-070.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-140 (2).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-017 (10).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-020 (2).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-012.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-023 (5).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-192 (9).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-203.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-110 (6).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-007.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-239 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-anemic-Pa-011 (11).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-074 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-189 (6).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-019 (10).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-anemic-Pa-013 (8).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-189 (2).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-204 (8).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-Pa-016 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-138 (2).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-123 (5).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-107 (10).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-012 (3).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-005.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-007 (8).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-267.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-074.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-037.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-007 (10).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-267 (10).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-189 (4).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-103 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-074 (7).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-104 (11).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-204 (10).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-169 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-175 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-007 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-060 (11).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-267 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-023 (6).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-267 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-060 (6).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-023 (3).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-007 (9).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-203 (2).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-146.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-123.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-184 (12).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-163 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-103 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-123 (6).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-023 (7).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-123 (2).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-060 (2).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-048 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-163 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-107 (8).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-048 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-164 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-192 (3).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-103 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-017 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-019 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-189 (5).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-175 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-023 (9).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-184 (7).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-164.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-060 (10).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-197 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-anemic-Pa-011 (7).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-205 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-106 (10).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-060 (9).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-130 (5).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-077 (11).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-anemic-Pa-011 (2).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-192 (5).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-049 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-163 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-204 (11).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-085 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-060 (5).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-263 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-074 (9).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-137 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-140 (3).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-017 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-007 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-268FV (10).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-192.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-020.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-104 (12).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-130 (4).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-085 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-019 (9).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-023 (4).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-107 (2).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-103 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-085 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-060 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-239 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-048 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-197.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-077 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-106 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-Pa-016 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-110 (3).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-239 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-060 (7).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-203 (10).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-184 (10).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-anemic-Pa-013.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-205 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-anemic-Pa-013 (12).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-012 (2).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-060 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-208 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-138.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-130 (6).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-020 (3).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-137 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-037 (3).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-106 (11).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-Pa-001 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-074 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-140.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-106 (8).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-204 (2).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-204 (9).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-268FV (9).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-007 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-268FV (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-070 (2).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-175 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-203 (11).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-205 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-203 (12).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-197 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-104 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-060 (12).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-049 (12).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-005 (2).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-106 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-163.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-107 (12).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-203 (7).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-012 (5).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-137.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-203 (8).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-104.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-168 (5).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-007 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-189.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-192 (2).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-070 (4).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-049 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-205.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-049 (10).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-138 (4).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-244 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-239 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-168 (6).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-244 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-140 (6).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-168 (9).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-107.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-244.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-203 (5).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-244 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-184 (3).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-019 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-085 (7).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-085 (8).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-267 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-060 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-189 (9).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-017 (8).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-023 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-060 (3).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-163 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-023 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-137 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-166 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-106 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-107 (5).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-103 (10).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-005 (5).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-189 (3).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-070 (3).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-138 (6).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-192 (8).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-268FV (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-023.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-189 (8).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-anemic-Pa-011 (10).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-005 (6).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-anemic-Pa-011 (12).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-077 (8).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-203 (9).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-110.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-077 (9).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-005 (4).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-085 (11).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-103 (8).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-104 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-023 (10).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-Pa-016.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-169 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-023 (8).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-019 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-104 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-085 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-107 (9).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-208 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-208 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-244 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-208 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-163 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-184 (8).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-anemic-Pa-011 (8).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-140 (5).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-074 (10).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-175 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-192 (12).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-110 (5).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-192 (10).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-267 (12).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-048 (8).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-204 (4).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-204 (5).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-074 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-106.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-110 (2).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-037 (4).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-023 (12).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-anemic-Pa-011.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-085 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-110 (4).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-267 (7).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-137 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-184 (5).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-085 (12).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-019 (7).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-204 (12).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-049 (9).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-268FV (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-268FV (12).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-205 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-020 (5).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-226 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-169.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-106 (7).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-168 (3).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-166 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-268FV.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-263 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-037 (2).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-203 (4).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-140 (4).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-017 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-263 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-204 (3).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-164 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-101 (6).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-070 (6).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-168 (10).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-164 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-268FV (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-192 (7).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-049 (8).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-019 (11).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-263 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-101 (4).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-175.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-060 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-Pa-001 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-017 (11).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-267 (8).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-077 (10).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-012 (4).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-048 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-101 (3).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-anemic-Pa-013 (2).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-263 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-anemic-Pa-011 (9).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-106 (9).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-019 (12).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-048 (12).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-146 (5).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-203 (3).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-007 (12).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-104 (8).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-023 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-048.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-107 (3).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-268FV (7).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-146 (3).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-107 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-077.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-017 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-146 (6).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-184.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-267 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-Pa-001 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-104 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-074 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-192 (11).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-130.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-049 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-104 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-anemic-Pa-013 (9).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-Pa-016 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-020 (4).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-037 (6).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-169 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-074 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-023 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-226 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-268FV (8).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-060 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-048 (7).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-085 (9).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-168.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-130 (3).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-074 (8).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-168 (4).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-017 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-anemic-Pa-011 (5).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-268FV (11).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-019 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-007 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-226.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-103 (9).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-019 (8).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Anemic-Pa-016 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-023.png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-226 (3).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-263.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-049 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-166 (4).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-184 (4).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-104 (7).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-023 (11).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-017 (12).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-060 (4).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-077 (6).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-226 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-146 (4).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-104 (10).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-077 (12).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-101 (5).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-anemic-Pa-013 (5).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-017.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-103.png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-168 (11).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-192 (6).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-166 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-197 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-048 (5).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-168 (7).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-107 (2).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-007 (11).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-023 (2).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/Non-AnemicP-184 (6).png,0
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-077 (7).png,1
+/home/sidharth/Desktop/medgemma-tb/Dataset/Anemia Detection using Palpable Palm Image Datasets from Ghana/Palm/AnemicP-074 (12).png,1

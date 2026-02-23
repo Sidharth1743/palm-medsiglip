@@ -1,0 +1,10 @@
+fastapi==0.129.0
+uvicorn==0.41.0
+torch==2.10.0
+transformers==4.57.6
+numpy==2.4.2
+joblib==1.5.3
+pillow==12.1.1
+tensorflow-cpu==2.20.0
+opencv-python-headless==4.13.0.92
+python-multipart==0.0.22
